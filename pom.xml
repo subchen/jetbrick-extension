@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
 
     <name>${project.artifactId}</name>
+    <description>jetbrick extension modules</description>
     <url>http://subchen.github.io/jetbrick-extension/</url>
 
     <modules>
