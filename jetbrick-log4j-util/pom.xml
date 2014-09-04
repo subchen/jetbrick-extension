@@ -6,12 +6,12 @@
     <parent>
         <groupId>com.github.subchen</groupId>
         <artifactId>jetbrick-extension</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0</version>
     </parent>
 
     <modelVersion>4.0.0</modelVersion>
     <artifactId>jetbrick-log4j-util</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <dependencies>
