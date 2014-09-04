@@ -1,0 +1,6 @@
+*.class
+*.asc
+*.zip
+
+**/target/
+
