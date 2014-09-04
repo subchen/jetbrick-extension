@@ -9,7 +9,10 @@ jetbrick-extension
 Downloads
 ==================
 
-jetbrick-log
+* [jetbrick-log-1.0.jar](http://search.maven.org/remotecontent?filepath=com/github/subchen/jetbrick-log/1.0/jetbrick-log-1.0.jar)
+* [jetbrick-log4j-util-1.0.jar](http://search.maven.org/remotecontent?filepath=com/github/subchen/jetbrick-log4j-util/1.0/jetbrick-log4j-util-1.0.jar)
+* [jetbrick-pinyin-1.0.jar](http://search.maven.org/remotecontent?filepath=com/github/subchen/jetbrick-pinyin/1.0/jetbrick-pinyin-1.0.jar)
+* [jetbrick-regex-jdk6-1.0.jar](http://search.maven.org/remotecontent?filepath=com/github/subchen/jetbrick-regex-jdk6/1.0/jetbrick-regex-jdk6-1.0.jar)
 
 Maven
 ==================
